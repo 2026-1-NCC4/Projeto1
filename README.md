@@ -51,8 +51,6 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
 | 🧑‍💻 **Vinicius Nishimura** | [@viniciusnishimura](https://github.com/viniciusnishimura) | Dev / Backend & Dados |
 | 🧑‍💻 **Bruno Souza** | [@brunosouza](https://github.com/brunosouza) | Dev / UI & UX |
  
-> ⚠️ *Atualize os links de GitHub acima com os usuários reais de cada integrante.*
- 
 ---
  
 ## 🛠 Tecnologias
