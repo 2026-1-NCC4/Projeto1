@@ -11,12 +11,8 @@
  
 # 🍃 Dashboard Cannoli — CT Devs
  
-<<<<<<< HEAD
-> **Transformando dados em decisões. Um dashboard à altura da Cannolli.**
-=======
-> **Transformando dados em decisões. Um dashboard à altura da Cannoli.**
->>>>>>> a24f578 (Primeiro Commit de Organização das Pastas e Arquivos)
- 
+**Transformando dados em decisões. Um dashboard à altura da Cannoli.** 
+
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge&logo=github)
 ![Time](https://img.shields.io/badge/time-CT%20Devs-green?style=for-the-badge)
 ![Cliente](https://img.shields.io/badge/cliente-Cannoli-brightgreen?style=for-the-badge)
@@ -29,13 +25,9 @@
 ---
  
 ## 🍃 Sobre o Projeto
- 
-<<<<<<< HEAD
-O **Dashboard Cannolli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannolli**.
-=======
+
 O **Dashboard Cannoli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannoli**.
->>>>>>> a24f578 (Primeiro Commit de Organização das Pastas e Arquivos)
- 
+
 O sistema combina uma API de alta performance construída com **FastAPI**, pipelines de dados em **Python** e uma interface moderna em **React** — entregando uma experiência fluida do dado bruto até a tomada de decisão.
  
 ### 🎯 Objetivos
