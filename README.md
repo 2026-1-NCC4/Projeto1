@@ -9,13 +9,17 @@
                                    ╚═════╝   ╚═╝       ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝
 ```
  
-# 🍃 Dashboard Cannloli — CT Devs
+# 🍃 Dashboard Cannoli — CT Devs
  
+<<<<<<< HEAD
 > **Transformando dados em decisões. Um dashboard à altura da Cannolli.**
+=======
+> **Transformando dados em decisões. Um dashboard à altura da Cannoli.**
+>>>>>>> a24f578 (Primeiro Commit de Organização das Pastas e Arquivos)
  
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge&logo=github)
 ![Time](https://img.shields.io/badge/time-CT%20Devs-green?style=for-the-badge)
-![Cliente](https://img.shields.io/badge/cliente-Cannloli-brightgreen?style=for-the-badge)
+![Cliente](https://img.shields.io/badge/cliente-Cannoli-brightgreen?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -26,13 +30,17 @@
  
 ## 🍃 Sobre o Projeto
  
+<<<<<<< HEAD
 O **Dashboard Cannolli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannolli**.
+=======
+O **Dashboard Cannoli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannoli**.
+>>>>>>> a24f578 (Primeiro Commit de Organização das Pastas e Arquivos)
  
 O sistema combina uma API de alta performance construída com **FastAPI**, pipelines de dados em **Python** e uma interface moderna em **React** — entregando uma experiência fluida do dado bruto até a tomada de decisão.
  
 ### 🎯 Objetivos
  
-- **Centralização de dados** — integração com as fontes de dados da Cannloli em um único painel
+- **Centralização de dados** — integração com as fontes de dados da Cannoli em um único painel
 - **Análise inteligente** — processamento e transformação de dados com bibliotecas Python especializadas
 - **Visualizações claras** — gráficos interativos, indicadores de performance e relatórios exportáveis
 - **Tomada de decisão ágil** — informações atualizadas em tempo real para gestores e líderes
@@ -47,9 +55,9 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
 | Integrante | GitHub | Função |
 |---|---|---|
 | 🧑‍💻 **Breno Costa** | [@brenocosta](https://github.com/brenocosta) | Dev / Tech Lead |
-| 🧑‍💻 **Felipe Yamaschita** | [@felipeyamaschita](https://github.com/felipeyamaschita) | Dev / Frontend |
-| 🧑‍💻 **Vinicius Nishimura** | [@viniciusnishimura](https://github.com/viniciusnishimura) | Dev / Backend & Dados |
-| 🧑‍💻 **Bruno Souza** | [@brunosouza](https://github.com/brunosouza) | Dev / UI & UX |
+| 🧑‍💻 **Felipe Yamaschita** | [@Yamaschita](https://github.com/Yamaschita) | Dev / Frontend |
+| 🧑‍💻 **Vinicius Nishimura** | [@Vinishireis](https://github.com/Vinishireis) | Dev / Backend & Dados |
+| 🧑‍💻 **Bruno Souza** | [@BrunoSouza06](https://github.com/BrunoSouza06) | Dev / UI & UX |
  
 ---
  
@@ -112,14 +120,14 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
  
 ## 📬 Contato
  
-Para dúvidas, sugestões ou reportar problemas, abra uma [Issue](https://github.com/ct-devs/cannloli-dashboard/issues) no repositório ou entre em contato com algum integrante do time CT Devs.
+Para dúvidas, sugestões ou reportar problemas, abra uma [Issue](https://github.com/ct-devs/Cannoli-dashboard/issues) no repositório ou entre em contato com algum integrante do time CT Devs.
  
 ---
  
 <div align="center">
  
-**CT Devs** — Desenvolvido com 💚 para a Cannloli
+**CT Devs** — Desenvolvido para a Cannoli
  
-*"Transformando dados em decisões. Um dashboard à altura da Cannloli."*
+*"Transformando dados em decisões. Um dashboard à altura da Cannoli."*
  
 </div>
