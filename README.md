@@ -11,7 +11,7 @@
  
 # 🍃 Dashboard Cannloli — CT Devs
  
-> **Transformando dados em decisões. Um dashboard à altura da Cannloli.**
+> **Transformando dados em decisões. Um dashboard à altura da Cannolli.**
  
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge&logo=github)
 ![Time](https://img.shields.io/badge/time-CT%20Devs-green?style=for-the-badge)
@@ -26,7 +26,7 @@
  
 ## 🍃 Sobre o Projeto
  
-O **Dashboard Cannloli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannloli**.
+O **Dashboard Cannolli** é uma solução de business intelligence desenvolvida pelo time **CT Devs** para centralizar, visualizar e analisar os dados estratégicos da empresa **Cannolli**.
  
 O sistema combina uma API de alta performance construída com **FastAPI**, pipelines de dados em **Python** e uma interface moderna em **React** — entregando uma experiência fluida do dado bruto até a tomada de decisão.
  
