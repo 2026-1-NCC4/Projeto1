@@ -28,6 +28,15 @@
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
  
 </div>
+
+---
+<br/>
+
+# 🌐 Acesse o Dashboard Online
+
+## 🔗 https://cannoli-dashboard.vercel.app/
+
+<br/>
  
 ---
  
