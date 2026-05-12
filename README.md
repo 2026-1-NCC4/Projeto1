@@ -1,3 +1,10 @@
+# FECAP - Fundação de Comércio Álvares Penteado
+
+<p align="center">
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
+  </a>
+</p>
 <div align="center">
  
 ```
@@ -40,7 +47,7 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
  
 ---
  
-## 👥 Sobre o Time
+## 👥 Integrantes
  
 > **CT Devs** — Um time movido por código limpo, colaboração e entrega de valor.
  
@@ -52,7 +59,17 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
 | 🧑‍💻 **Bruno Souza** | [@BrunoSouza06](https://github.com/BrunoSouza06) | Dev / UI & UX |
  
 ---
- 
+
+## 📚 Professores Orientadores
+
+* **[Eduardo Savino Gomes](https://www.linkedin.com/in/eduardo-savino/)**
+* **[Lucy Mari Tabuti](https://www.linkedin.com/in/lucymari/)**
+* **[Maurício Lopes da Cunha](https://www.linkedin.com/in/maureen-leung-5630492a/)**
+* **[Rodnil da Silva Moreira Lisboa](https://www.linkedin.com/in/professorrodnil/)**
+* **[Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)**
+
+---
+
 ## 🛠 Tecnologias
  
 ### 🐍 Backend — Python + FastAPI
@@ -108,6 +125,12 @@ O sistema combina uma API de alta performance construída com **FastAPI**, pipel
  
 > O FastAPI gera automaticamente documentação interativa da API em `/docs` e `/redoc`.
  
+---
+
+## Licença
+
+<a href="https://github.com/2026-1-NCC4/Projeto1"> Dashboard Cannoli — CT Devs</a> © 2026 by <a href="https://github.com/2026-1-NCC4"><br/>Breno Costa Nascimento;<br/> Bruno Souza Lima; <br/> Felipe Toshio Yamaschita; <br/> Vinícius Nishimura Reis<br/></a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ---
  
 ## 📬 Contato

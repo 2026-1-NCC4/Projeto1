@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@supabase/supabase-js": "^2.101.0",
-    "lucide-react": "^1.7.0",
-    "napi-postinstall": "^0.3.4",
-    "recharts": "^3.8.1"
-  }
-}
